@@ -1,6 +1,6 @@
 # Just a collection of Hooks I often reuse
 
-> If I take a hook from somewhere there will be a credit comment at the top of the file.
+> Credit where credit is due. A single line comment will be  at the top of each file with the associated license and author.
 
 Feel free to copy and paste from here.
 
