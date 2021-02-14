@@ -2,6 +2,8 @@
 
 > If I take a hook from somewhere there will be a credit comment at the top of the file.
 
+Feel free to copy and paste from here.
+
 ## The Hooks:
 
 ### [useConstructor](./hooks/useConstructor.ts)
